@@ -83,3 +83,7 @@ Manage earnings and platform content.
 
 # OUTPUT #
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8c240044-ae16-4236-bdb5-0ed98877fa83" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/25ec4e4e-f120-417c-ad22-9e1a6794d0ad" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d4a46ee5-ef14-4f41-b41e-2fda17249fbc" />
+
